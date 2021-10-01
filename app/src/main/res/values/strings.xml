@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ToDoList</string>
+    <string name="item_message">New task</string>
+    <string name="new_message_hint">add item</string>
 </resources>
